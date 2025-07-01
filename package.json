@@ -1,9 +1,10 @@
 {
   "name": "goal-tracker",
   "version": "1.0.0",
-  "homepage": "https://misba4u.github.io/goal-tracker",
   "private": true,
   "dependencies": {
+    "google-auth-library": "^10.1.0",
+    "googleapis": "^150.0.1",
     "lucide-react": "^0.263.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
